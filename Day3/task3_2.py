@@ -6,5 +6,5 @@ def sum_divisible_by_c(a, b, c):
         raise ValueError("Division by zero is not allowed.")
     return sum(x for x in range(a, b + 1) if x % c == 0)
 
-# Example usage:
+
 print(sum_divisible_by_c(1, 10, 3)) 
