@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Day2",
+        "./Day6"
+    ]
+}
